@@ -1,5 +1,9 @@
 # HRWELL - Machine Learning Integrated HR Tool
 
+
+https://github.com/haticeakkus/FinalCase-MiPower/assets/80623945/4dfd032d-16c2-44d9-ad2d-e773eb7a5a4b
+
+
 ## Proje Amacı
 HRWELL, İnsan Kaynakları süreçlerinde veri analizini ve makine öğrenmesini entegre eden bir araçtır. Bu proje, çalışan verilerini analiz ederek çalışan yıpranmasını ve performansını önceden tahmin etmeyi hedefler. Dinamik veri analizi toolu ile çalışan yıpranma analizine doğrudan erişim sağlar ve yüksek doğruluklu bir model sunar.
 
@@ -11,20 +15,20 @@ HRWELL, İnsan Kaynakları süreçlerinde veri analizini ve makine öğrenmesini
 ## Ekibimiz
 - **Duygu Baday**
   - **Görevler:** Flask, Veri Analiz Toolu, Local Storage, Model Entegrasyonu
-  - **Kullandığı Teknolojiler: **
+  - **Kullandığı Teknolojiler:**
     - Frontend: HTML, CSS, JavaScript, Toastr
     - Backend: Flask, Python
     - Veri Depolama: Local Storage
       
 - **Efnan Durmazer**
   - **Görevler:** Veri Seti Araştırması, Veri İnceleme ve Analiz
-  - **Kullandığı Teknolojiler: **
+  - **Kullandığı Teknolojiler:**
     - Veri Analizi: Pandas, NumPy
     - Görselleştirme: Matplotlib, Seaborn, Plotly
       
 - **Hatice Akkuş**
   - **Görevler:** Veri Seti Hazırlığı, Model Eğitimi, Veri Temizleme, Görselleştirme
-  - **Kullandığı Teknolojiler: **
+  - **Kullandığı Teknolojiler:**
     - Veri İşleme: Pandas(One-Hot Encoding)
     - Veri Dengesi: Imbalanced-learn (ADASYN)
     - Modelleme: Scikit-learn (Logistic Regression, Random Forest, Support Vector Machine (SVM), Gradient Boosting)
@@ -32,7 +36,7 @@ HRWELL, İnsan Kaynakları süreçlerinde veri analizini ve makine öğrenmesini
 
 - **Cansu Ardıç**
   - **Görevler:** Veri Analizi ve UI Tasarımı, Raporlama
-  - **Kullandığı Teknolojiler: **
+  - **Kullandığı Teknolojiler:**
     - UI Tasarımı: HTML, CSS
     - Veri Analizi: Pandas, Matplotlib
 
